@@ -23,3 +23,5 @@ end
 
 local callbacks = fatality.callbacks
 callbacks:add( "paint", on_paint )
+
+-- thanks to invalidcode for helping me in cleaning up the code.
